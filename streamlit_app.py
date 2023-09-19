@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 
-st.markdown("<style>h1 {color: #0D5257; font-size:21px} p {color:#555} label p {color:#0D5257;} p a, .css-5rimss a {color:#F98B3C !important} .e1vs0wn30 img {width:50%; float:left}</style>", unsafe_allow_html=True)
+st.markdown("<style>h1 {color: #0D5257; font-size:21px} p {color:#555} label p {color:#0D5257;} p a, .css-5rimss a {color:#F98B3C !important} .e1vs0wn30 {width:50%; float:left}</style>", unsafe_allow_html=True)
 st.image("https://www.maiafinancial.com.au/assets/static/logo-gradient-sm@2x.d1a35dd.a65badf05cf5b943cdbb5dbb6077a909.png")
 st.image("https://www.maiafinancial.com.au/images/hero/plant2.png")
 """
