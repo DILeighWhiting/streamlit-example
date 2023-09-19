@@ -1,6 +1,3 @@
-# Welcome to Streamlit!
+# Decision Inc. Sales Demo
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+If you have any questions, reach out to our [sales team](mailto:salesau@decisioninc.com.au)
